@@ -1,0 +1,2 @@
+def dick ():
+	print ("Hola Mundo")
